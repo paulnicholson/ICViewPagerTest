@@ -1,0 +1,14 @@
+PODS:
+  - ICViewPager (1.3)
+
+DEPENDENCIES:
+  - ICViewPager (from `https://github.com/monsieurje/ICViewPager.git`)
+
+EXTERNAL SOURCES:
+  ICViewPager:
+    :git: https://github.com/monsieurje/ICViewPager.git
+
+SPEC CHECKSUMS:
+  ICViewPager: 00877d3a322796f01f49c642f305d44b9617b879
+
+COCOAPODS: 0.26.2
